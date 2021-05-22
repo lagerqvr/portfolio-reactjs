@@ -8,7 +8,7 @@ class About extends Component {
             <h1 className="subtopic">About Me</h1>
             <h4>Hi,</h4>
             <h1>I'm Rasmus Lagerqvist</h1>
-            <h3><u>Student</u>  |  <u>Junior Web Developer</u></h3>
+            <h3><u>Student</u>  |  <u>Junior Software Developer</u></h3>
             <br></br>
             <p>I've always had a big passion for all things digital. I'm quite new to the field as a professional 
                 but I like to think about myself
